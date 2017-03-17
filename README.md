@@ -1,0 +1,2 @@
+# SCXCollectionViewImageView
+collectionview瀑布流和长按移动
